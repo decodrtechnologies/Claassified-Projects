@@ -6,7 +6,23 @@ One of the greatest benefits of graphs and visualization is that it allows us vi
 
 ![alt text](https://i.stack.imgur.com/e14gC.png "Logo Img")
 
-### Downloading Matplotlib
+STEPS INVOLVED
+-------------------------------
+  1. Go to Template_Aviation.ipynb to work on the project.
+  2. The data analysis is done using two files, Dataset1 and Dataset2.
+  3. Implementation is available in Airplane Crashes (Analysis&Visualization).ipynb
+
+
+### Requirements:
+- Python (>= 3.6)
+- NumPy (>= 1.11)
+- Pandas
+- Matplotlib
+
+Install
+-------------------------------
+    Supported Python version
+        -Python version used in this Project:3.5+
 
 If you are using pip installer for Python libraries, you can execute the following command to download the library:
 
@@ -16,18 +32,16 @@ Alternatively, if you are using the Anaconda distribution of Python, you can use
 
 > * conda install matplotlib
 
-### Requirements:
-- Python (>= 3.6)
-- NumPy (>= 1.11)
-- Pandas
-- Matplotlib
-
 ### Contents:
 - Simple Plots
 - Bar graphs
 - Histograms
 - Pie Chart
 - Bubble Plots
+
+Contact
+----------------------------------
+    Project Link-  https://github.com/decodrtechnologies/Classified-Projects/tree/master/Graphs
 
 ### Further readings:
 - https://matplotlib.org/
