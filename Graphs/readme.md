@@ -8,9 +8,9 @@ One of the greatest benefits of graphs and visualization is that it allows us vi
 
 STEPS INVOLVED
 -------------------------------
-  1. Go to Template_Aviation.ipynb to work on the project.
-  2. The data analysis is done using two files, Dataset1 and Dataset2.
-  3. Implementation is available in Airplane Crashes (Analysis&Visualization).ipynb
+  1. Go to Template-Graphs.ipynb to work on the project.
+  2. Data is availible in the Data directory.
+  3. Implementation is available in Graphs.ipynb
 
 
 ### Requirements:
@@ -42,6 +42,15 @@ Alternatively, if you are using the Anaconda distribution of Python, you can use
 Contact
 ----------------------------------
     Project Link-  https://github.com/decodrtechnologies/Classified-Projects/tree/master/Graphs
+    
+Run
+------------------------------
+    To run this project you will need an active Pythond distribution such as Anaconda or ActivePython
 
+    To execute the project, run the following command in a python supported prompt such as Anaconda Prompt:
+    ipython notebook Template-Graphs.ipynb
+    
 ### Further readings:
 - https://matplotlib.org/
+
+Goodluck!
