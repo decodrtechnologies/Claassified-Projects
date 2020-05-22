@@ -71,7 +71,7 @@ This project requires **Python** and the following Python libraries installed:
 
 ### Run :
 
-In a terminal or command window, navigate to the top-level project directory `Wholesale Customer segmentation/`
+In a terminal or command window, navigate to the top-level project directory `PCA Dimensionality Reduction/`
 (that contains this README) and run one of the following commands:
 
 
