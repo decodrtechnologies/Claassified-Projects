@@ -25,16 +25,19 @@ The test set should be used to see how well your model performs on unseen data. 
 * pclass	Ticket class	1 = 1st, 2 = 2nd, 3 = 3rd
 * sex - Sex	
 * Age	Age in years	
-* sibsp	# of siblings / spouses aboard the Titanic	
-* parch	# of parents / children aboard the Titanic	
-* ticket	Ticket number	
-* fare	Passenger fare	
-* cabin	Cabin number	
-* embarked	Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton
-* Variable Notes
-* pclass: A proxy for socio-economic status (SES) (1st = Upper, 2nd = Middle, 3rd = Lower)
+* sibsp - No. of siblings / spouses aboard the Titanic	
+* parch - No. of parents / children aboard the Titanic	
+* ticket - Ticket number	
+* fare - Passenger fare	
+* cabin - Cabin number	
+* embarked - Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton
 
-#### Variables
+#### Variable Notes
+pclass: A proxy for socio-economic status (SES) 
+* 1st = Upper 
+* 2nd = Middle
+* 3rd = Lower
+
 age: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
 sibsp: The dataset defines family relations in this way...
 * Sibling = brother, sister, stepbrother, stepsister
