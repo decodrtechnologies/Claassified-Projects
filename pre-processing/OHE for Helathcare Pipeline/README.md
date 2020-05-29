@@ -8,7 +8,7 @@ A simple demonstration of One Hot Encoding using Sklearn for Healthcare Pipeline
 A one hot encoding is a representation of categorical variables as binary vectors. This first requires that the categorical values be mapped to integer values. Then, each integer value is represented as a binary vector that is all zero values except the index of the integer, which is marked with a 1,
 - Further Reading : https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/
 
-## Licence : 
+## Licence :  
 
 - Copyright [2020] [Swapnil Powar]
 
