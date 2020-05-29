@@ -22,7 +22,7 @@ A one hot encoding is a representation of categorical variables as binary vector
   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   See the License for the specific language governing permissions and
   limitations under the License.
- 
+  
 ## Install
 Supported Python version - Python version used in this Project : 3.5+
 
