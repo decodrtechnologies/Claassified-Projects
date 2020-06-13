@@ -3,7 +3,7 @@
 ![bin](https://miro.medium.com/max/1400/0*XWta_U67Nv9udfY-.png)
 
 Binning can be applied on both categorical and numerical data:  
-1. Numerical Binning Example  
+1.Numerical Binning Example  
 
 Value      Bin  
 
@@ -20,7 +20,7 @@ Italy  ->  Europe
 Chile  ->  South America
 Brazil ->  South America  
   
-    
+  
 The main motivation of binning is to make the model more robust and prevent overfitting. However, it has a cost to the performance. Every time we bin something, we sacrifice information and make our data more regularized.
 
 The trade-off between performance and overfitting is the key point of the binning process.    
